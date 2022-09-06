@@ -6,9 +6,7 @@
 - 🌱 Languages and Tools:<br />    
     <div>
 	<br />
-       	 <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-        
-        	<img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+       	 <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
         
 	<img height="30" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></code>
 	<img height="30" src="https://img.shields.io/badge/-QML-3FC74F?style=for-the-badge&logo=Qt&logoColor=white"></code>
