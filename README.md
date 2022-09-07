@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=310B7A&width=435&lines=Hi!+I'm+Parisa+;I'm+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=310B7A&width=435&lines=Hi!+I'm+Parisa+;I'm+a+software+developer)](https://git.io/typing-svg)
 
 
 ## 🧐 About
